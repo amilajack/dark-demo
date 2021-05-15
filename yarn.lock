@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-dark@^0.0.2-1:
-  version "0.0.2-1"
-  resolved "https://registry.yarnpkg.com/dark/-/dark-0.0.2-1.tgz#6c7ce142fab57baa3dd456f8d2516b4d7bd1612d"
-  integrity sha512-Nm56cq0kJno6T1ySxLAMVTf3e3lojZgtRmtucwPLoGyMXDcEbJ9jYAwjnmuluyL8/I0JV3H0BEpvRVzGaO6EHQ==
+dark@^0.0.2-2:
+  version "0.0.2-2"
+  resolved "https://registry.yarnpkg.com/dark/-/dark-0.0.2-2.tgz#bbad21250565a3cbae9053efac204c3e5aa47eff"
+  integrity sha512-BCcfYIGyN6/wPQcQF8fj+4agWuwJp5PJJSFWIreRNWNIn0/ShNppso8+4UYfIdkK5lLns68/Qhr6kOPdrtebSg==
   dependencies:
     omelette "^0.4.12"
 
